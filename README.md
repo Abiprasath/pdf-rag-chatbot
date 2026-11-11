@@ -17,7 +17,7 @@ Python, Streamlit, LangChain, FAISS, Google Gemini API, pdfplumber
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/pdf-rag-chatbot.git
+git clone https://github.com/Abiprasath/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
